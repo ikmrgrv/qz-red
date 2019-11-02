@@ -1,0 +1,19 @@
+{
+  "name": "qz-red",
+  "version": "0.1.0",
+  "description": "Project QZ Red",
+  "author": "Kumar Gaurav <twitter@ikmrgrv>",
+  "private": true,
+  "main": "./src/app.js",
+  "repository": "https://github.com/ikmrgrv/qz-red.git",
+  "license": "GNU GPL v3",
+  "scripts": {
+    "serve": "nodemon ./src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
